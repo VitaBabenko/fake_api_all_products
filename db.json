@@ -36,13 +36,6 @@
     "totalPrice": 25
   },
   {
-    "id": "a789d",
-    "name": "Big Big Burger",
-    "price": 95,
-    "count": 1,
-    "totalPrice": 95
-  },
-  {
     "id": "b234c",
     "name": "Big Big Pizza",
     "price": 80,
@@ -79,13 +72,6 @@
   },
   {
     "id": "b789c",
-    "name": "Big Big Pizza",
-    "price": 95,
-    "count": 1,
-    "totalPrice": 95
-  },
-  {
-    "id": "b890c",
     "name": "Big Big Pizza",
     "price": 95,
     "count": 1,
@@ -176,13 +162,6 @@
     "totalPrice": 25
   },
   {
-    "id": "k789m",
-    "name": "Big Ice Cream",
-    "price": 95,
-    "count": 1,
-    "totalPrice": 95
-  }, 
-  {
     "id": "r234z",
     "name": "French Fries",
     "price": 80,
@@ -216,13 +195,6 @@
     "price": 25,
     "count": 1,
     "totalPrice": 25
-  },
-  {
-    "id": "r789z",
-    "name": "French Fries",
-    "price": 95,
-    "count": 1,
-    "totalPrice": 95
   }
 ]
 }
