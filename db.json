@@ -196,15 +196,5 @@
     "count": 1,
     "totalPrice": 25
   }
-],
-  "orders": [
-  {
-    "id": "4SSrEuYwGztPeISaJd8G1",
-    "address": "kyiv",
-    "email": "babenkovita1988@gmail.com",
-    "name": "babenkovita",
-    "phone": "0731111111",
-    "total": 530
-  }
 ]
 }
